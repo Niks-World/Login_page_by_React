@@ -23,3 +23,4 @@ export const Nav = () => {
     </div>
   )
 }
+// this is nav bar
